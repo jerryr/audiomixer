@@ -420,12 +420,20 @@
       "Power"
     ],
     [
-      "356ebc00-5e88-43e4-ae7c-ba1d01a6c8c7",
-      "Inputs"
-    ],
-    [
       "79e69859-f05c-4b6f-891c-7e30f52b90e5",
       "mixer"
+    ],
+    [
+      "38ef3d68-62e9-4a73-ada0-11f698cb08e5",
+      "Channel 1"
+    ],
+    [
+      "64624d66-8852-4ee4-bfd6-ec60c8538139",
+      "Channel 2"
+    ],
+    [
+      "f47856f7-2879-4774-94af-83c45d9d54cf",
+      "Channel 3"
     ]
   ],
   "text_variables": {}
